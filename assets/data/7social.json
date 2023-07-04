@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "________plays very important role in the socialization of a child.",
+      "options": ["Family", "Nation", "Society", "Enemy"],
+      "answer": "Family"
+    },
+    {
+      "question": "____________ are given freedom of movement and settlement.",
+      "options": ["A state", "The citizens", "The right", "The government"],
+      "answer": "The citizens"
+    },
+    {
+      "question": "The Terai region covers an  area of ___________.",
+      "options": [
+        "25,020 sq. km",
+        "29,122 sq. km",
+        "18,920 sq. km",
+        "11,680 sq. km"
+      ],
+      "answer": "25,020 sq. km"
+    },
+    {
+      "question": "In Varna System, there was discrimination on the basis of ________ .",
+      "options": ["caste", "religion", "gender", "race"],
+      "answer": "caste"
+    },
+    {
+      "question": "______________ is found in Fulchoki.",
+      "options": ["Iron", "Gold", "Silver", "Mineral"],
+      "answer": "Iron"
+    }
+  ]
+}

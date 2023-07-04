@@ -1,0 +1,39 @@
+{
+  "questions": [
+    {
+      "question": "Which is the capital city of Nepal?",
+      "options": ["Kathmandu", "Pokhara", "Birgunj", "Bharatpur"],
+      "answer": "Kathmandu"
+    },
+    {
+      "question": "Which country is located to the north of Nepal?",
+      "options": ["India", "China", "Bhutan", "Bangladesh"],
+      "answer": "China"
+    },
+    {
+      "question": "Who is regarded as the architect of modern Nepal?",
+      "options": [
+        "King Prithvi Narayan Shah",
+        "Gautam Buddha",
+        "Mahatma Gandhi",
+        "Bhim Sen Thapa"
+      ],
+      "answer": "King Prithvi Narayan Shah"
+    },
+    {
+      "question": "What is the major religion followed in Nepal?",
+      "options": ["Hinduism", "Buddhism", "Islam", "Christianity"],
+      "answer": "Hinduism"
+    },
+    {
+      "question": "Which is the longest river in Nepal?",
+      "options": [
+        "Koshi River",
+        "Gandaki River",
+        "Bagmati River",
+        "Narayani River"
+      ],
+      "answer": "Koshi River"
+    }
+  ]
+}

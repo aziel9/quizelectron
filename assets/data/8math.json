@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "Solve the equation: 3x + 5 = 20",
+      "options": ["x = 5", "x = 7", "x = 8", "x = 9"],
+      "answer": "x = 5"
+    },
+    {
+      "question": "Calculate the volume of a cylinder with a height of 10 cm and a radius of 4 cm.",
+      "options": ["40π cm³", "80π cm³", "160π cm³", "320π cm³"],
+      "answer": "160π cm³"
+    },
+    {
+      "question": "What is the square root of 169?",
+      "options": ["12", "13", "14", "15"],
+      "answer": "13"
+    },
+    {
+      "question": "Simplify the expression: 4(2x - 5) + 3(3x + 2)",
+      "options": ["19x - 2", "19x + 8", "22x - 7", "22x + 8"],
+      "answer": "19x - 2"
+    },
+    {
+      "question": "What is the value of 5! (5 factorial)?",
+      "options": ["5", "20", "120", "720"],
+      "answer": "120"
+    }
+  ]
+}

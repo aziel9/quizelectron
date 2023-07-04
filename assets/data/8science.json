@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following is an example of a chemical change?",
+      "options": [
+        "Melting ice",
+        "Burning wood",
+        "Cutting paper",
+        "Mixing salt and water"
+      ],
+      "answer": "Burning wood"
+    },
+    {
+      "question": "What is the unit of measurement for electric current?",
+      "options": ["Volt", "Ampere", "Ohm", "Watt"],
+      "answer": "Ampere"
+    },
+    {
+      "question": "What is the function of the respiratory system?",
+      "options": [
+        "Transporting oxygen",
+        "Filtering blood",
+        "Digesting food",
+        "Producing hormones"
+      ],
+      "answer": "Transporting oxygen"
+    },
+    {
+      "question": "Which of the following is NOT a form of energy?",
+      "options": [
+        "Heat energy",
+        "Sound energy",
+        "Frictional energy",
+        "Chemical energy"
+      ],
+      "answer": "Frictional energy"
+    },
+    {
+      "question": "What is the process by which plants use sunlight to make food?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Germination"
+      ],
+      "answer": "Photosynthesis"
+    }
+  ]
+}

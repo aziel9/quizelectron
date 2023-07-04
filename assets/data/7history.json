@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "question": "Which river separates Nepal and India in the western region?",
+      "options": [
+        "Koshi River",
+        "Gandaki River",
+        "Karnali River",
+        "Mahakali River"
+      ],
+      "answer": "Mahakali River"
+    },
+    {
+      "question": "Who was the first woman to climb Mount Everest from Nepal?",
+      "options": [
+        "Pasang Lhamu Sherpa",
+        "Junko Tabei",
+        "Tamae Watanabe",
+        "Phurba Tashi"
+      ],
+      "answer": "Pasang Lhamu Sherpa"
+    },
+    {
+      "question": "When was the Nepal-India Treaty of Peace and Friendship signed?",
+      "options": ["1951", "2006", "1990", "1768"],
+      "answer": "1951"
+    },
+    {
+      "question": "Which national park is known for being the natural habitat of the Bengal Tiger?",
+      "options": [
+        "Sagarmatha National Park",
+        "Chitwan National Park",
+        "Bardia National Park",
+        "Langtang National Park"
+      ],
+      "answer": "Chitwan National Park"
+    },
+    {
+      "question": "Which historical figure is known as the Iron Man of Nepal?",
+      "options": [
+        "Prithvi Narayan Shah",
+        "Bhimsen Thapa",
+        "Jung Bahadur Rana",
+        "Birendra Bir Bikram Shah"
+      ],
+      "answer": "Bhimsen Thapa"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "question": "Who was the first king of Nepal?",
+      "options": [
+        "King Mahendra",
+        "King Birendra",
+        "King Prithvi Narayan Shah",
+        "King Gyanendra"
+      ],
+      "answer": "King Prithvi Narayan Shah"
+    },
+    {
+      "question": "When did Nepal officially become a federal democratic republic?",
+      "options": ["1951", "2006", "1990", "1768"],
+      "answer": "2006"
+    },
+    {
+      "question": "Which treaty established the current Nepal-India border?",
+      "options": [
+        "Treaty of Sugauli",
+        "Treaty of Peace and Friendship",
+        "Treaty of Kathmandu",
+        "Treaty of Butwal"
+      ],
+      "answer": "Treaty of Sugauli"
+    },
+    {
+      "question": "Who is considered the national poet of Nepal?",
+      "options": [
+        "Bhanubhakta Acharya",
+        "Laxmi Prasad Devkota",
+        "Motiram Bhatta",
+        "Gopal Prasad Rimal"
+      ],
+      "answer": "Madhav Prasad Ghimire"
+    },
+    {
+      "question": "Which revolution ended the Rana regime in Nepal?",
+      "options": [
+        "Peasant Revolution",
+        "Jana Andolan",
+        "Constitutional Revolution",
+        "People's Movement"
+      ],
+      "answer": "Jana Andolan"
+    }
+  ]
+}

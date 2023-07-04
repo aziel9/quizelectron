@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following is a renewable source of energy?",
+      "options": ["Coal", "Natural gas", "Solar power", "Nuclear power"],
+      "answer": "Solar power"
+    },
+    {
+      "question": "Which of the following is an example of a chemical change?",
+      "options": [
+        "Melting ice",
+        "Burning wood",
+        "Cutting paper",
+        "Mixing salt and water"
+      ],
+      "answer": "Burning wood"
+    },
+    {
+      "question": "What is the process by which plants make food?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration",
+        "Germination"
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "question": "Which of the following is NOT a component of the circulatory system?",
+      "options": ["Heart", "Lungs", "Blood", "Brain"],
+      "answer": "Brain"
+    },
+    {
+      "question": "What is the function of the nervous system?",
+      "options": [
+        "Transporting oxygen",
+        "Digesting food",
+        "Controlling body movements",
+        "Producing hormones"
+      ],
+      "answer": "Controlling body movements"
+    }
+  ]
+}

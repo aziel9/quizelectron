@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "Simplify the expression: 4 + 5 * 2",
+      "options": ["12", "14", "18", "20"],
+      "answer": "14"
+    },
+    {
+      "question": "What is the value of 3/4 + 2/5?",
+      "options": ["1/9", "11/20", "13/20", "19/20"],
+      "answer": "19/20"
+    },
+    {
+      "question": "Calculate the area of a rectangle with length 8 cm and width 5 cm.",
+      "options": ["10 cm²", "13 cm²", "35 cm²", "40 cm²"],
+      "answer": "40 cm²"
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "options": ["1", "2", "3", "4"],
+      "answer": "2"
+    },
+    {
+      "question": "Solve for x: 2x + 5 = 17",
+      "options": ["x = 4", "x = 6", "x = 8", "x = 10"],
+      "answer": "x = 6"
+    }
+  ]
+}

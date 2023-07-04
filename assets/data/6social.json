@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "Who is considered the first king of the Licchavi dynasty in Nepal?",
+      "options": ["Jayadeva I", "Amsuvarman", "Mandev", "Ari Deva"],
+      "answer": "Amsuvarman"
+    },
+    {
+      "question": "Which treaty established the current boundaries of Nepal with China?",
+      "options": [
+        "Treaty of Sugauli",
+        "Treaty of Peace and Friendship",
+        "Treaty of Betrawati",
+        "Treaty of Kathmandu"
+      ],
+      "answer": "Treaty of Betrawati"
+    },
+    {
+      "question": "In which year did Nepal become a federal democratic republic?",
+      "options": ["2005", "2006", "2007", "2008"],
+      "answer": "2008"
+    },
+    {
+      "question": "Which of the following is a UNESCO World Heritage Site located in Nepal?",
+      "options": [
+        "Pashupatinath Temple",
+        "Lumbini",
+        "Boudhanath Stupa",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Who is considered the father of modern Nepal?",
+      "options": [
+        "Prithvi Narayan Shah",
+        "Gautam Buddha",
+        "Bhim Sen Thapa",
+        "Surendra Bikram Shah"
+      ],
+      "answer": "Prithvi Narayan Shah"
+    }
+  ]
+}

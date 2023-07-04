@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "question": "Who is considered the architect of the United Nations?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Franklin D. Roosevelt",
+        "Winston Churchill"
+      ],
+      "answer": "Franklin D. Roosevelt"
+    },
+    {
+      "question": "Which treaty signed in 1950 between Nepal and India regulates the bilateral relations between the two countries?",
+      "options": [
+        "Treaty of Sugauli",
+        "Treaty of Peace and Friendship",
+        "Treaty of Betrawati",
+        "Treaty of Kathmandu"
+      ],
+      "answer": "Treaty of Peace and Friendship"
+    },
+    {
+      "question": "When did Nepal become a member of the United Nations?",
+      "options": ["1945", "1951", "1955", "1960"],
+      "answer": "1955"
+    },
+    {
+      "question": "Who is regarded as the founder of modern Nepal?",
+      "options": [
+        "Prithvi Narayan Shah",
+        "Gautam Buddha",
+        "Bhim Sen Thapa",
+        "Surendra Bikram Shah"
+      ],
+      "answer": "Prithvi Narayan Shah"
+    },
+    {
+      "question": "Which river is known as the 'Sorrow of Bihar'?",
+      "options": [
+        "Koshi River",
+        "Gandak River",
+        "Bagmati River",
+        "Narayani River"
+      ],
+      "answer": "Koshi River"
+    }
+  ]
+}

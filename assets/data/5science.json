@@ -1,0 +1,39 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following is a source of renewable energy?",
+      "options": ["Coal", "Natural gas", "Solar power", "Nuclear power"],
+      "answer": "Solar power"
+    },
+    {
+      "question": "Which organ is responsible for pumping blood throughout the body?",
+      "options": ["Heart", "Brain", "Lungs", "Liver"],
+      "answer": "Heart"
+    },
+    {
+      "question": "What is the process by which plants make their own food?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration",
+        "Germination"
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "question": "Which of the following is NOT a state of matter?",
+      "options": ["Solid", "Liquid", "Gas", "Energy"],
+      "answer": "Energy"
+    },
+    {
+      "question": "What is the main function of the respiratory system?",
+      "options": [
+        "Transporting oxygen",
+        "Digesting food",
+        "Circulating blood",
+        "Producing hormones"
+      ],
+      "answer": "Transporting oxygen"
+    }
+  ]
+}

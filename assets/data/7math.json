@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "If x + 20% of x = Rs 180, find the value of x.",
+      "options": ["Rs 180", "Rs 150", "Rs 120", "Rs 100"],
+      "answer": "Rs 150"
+    },
+    {
+      "question": "If x + 4 =  9, then what will be the value of x?",
+      "options": ["4", "6", "8", "5"],
+      "answer": "5"
+    },
+    {
+      "question": "The sum of two numbers is 28. If one the numbers is 16, find the other number.",
+      "options": ["16", "12", "10", "14"],
+      "answer": "12"
+    },
+    {
+      "question": "Solve: 3(3 - 2x) = -5 (x- 1)",
+      "options": ["6", "4", "10", "8"],
+      "answer": "4"
+    },
+    {
+      "question": "If 2x + 1 = x + 3, what will be the value of x?",
+      "options": ["1", "4", "2", "3"],
+      "answer": "2"
+    }
+  ]
+}

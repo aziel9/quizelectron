@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "question": "Who is regarded as the national poet of Nepal?",
+      "options": [
+        "Bhanubhakta Acharya",
+        "Laxmi Prasad Devkota",
+        "Motiram Bhatta",
+        "Gopal Prasad Rimal"
+      ],
+      "answer": "Bhanubhakta Acharya"
+    },
+    {
+      "question": "Which river is considered the lifeline of Kathmandu Valley?",
+      "options": [
+        "Koshi River",
+        "Gandaki River",
+        "Bagmati River",
+        "Karnali River"
+      ],
+      "answer": "Bagmati River"
+    },
+    {
+      "question": "Who is known as the 'Light of Asia'?",
+      "options": [
+        "Prithvi Narayan Shah",
+        "Gautam Buddha",
+        "Mahatma Gandhi",
+        "Bhim Sen Thapa"
+      ],
+      "answer": "Gautam Buddha"
+    },
+    {
+      "question": "Which festival is celebrated to mark the triumph of good over evil?",
+      "options": ["Tihar", "Dashain", "Holi", "Bisket Jatra"],
+      "answer": "Dashain"
+    },
+    {
+      "question": "Who is known as the 'Father of the Nation' in Nepal?",
+      "options": [
+        "King Prithvi Narayan Shah",
+        "Bhim Sen Thapa",
+        "Mahendra Bir Bikram Shah",
+        "Girija Prasad Koirala"
+      ],
+      "answer": "King Prithvi Narayan Shah"
+    }
+  ]
+}

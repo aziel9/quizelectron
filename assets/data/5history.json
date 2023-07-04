@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "Who is the national hero of Nepal?",
+      "options": [
+        "Prithvi Narayan Shah",
+        "Gautam Buddha",
+        "Mahatma Gandhi",
+        "Bhim Sen Thapa"
+      ],
+      "answer": "Prithvi Narayan Shah"
+    },
+    {
+      "question": "Which is the highest mountain in the world?",
+      "options": ["Mount Everest", "Kangchenjunga", "Annapurna", "Makalu"],
+      "answer": "Mount Everest"
+    },
+    {
+      "question": "Which festival is celebrated to mark the victory of good over evil?",
+      "options": ["Dashain", "Tihar", "Holi", "Bisket Jatra"],
+      "answer": "Dashain"
+    },
+    {
+      "question": "What is the capital city of Nepal?",
+      "options": ["Kathmandu", "Pokhara", "Biratnagar", "Bharatpur"],
+      "answer": "Kathmandu"
+    },
+    {
+      "question": "Which animal is the national symbol of Nepal?",
+      "options": ["Tiger", "Elephant", "Rhinoceros", "Cow"],
+      "answer": "Cow"
+    }
+  ]
+}

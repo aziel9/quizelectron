@@ -1,0 +1,39 @@
+{
+  "questions": [
+    {
+      "question": "The distance between any two point is called",
+      "options": ["Displacement", "Length", "Space", "Area"],
+      "answer": "Length"
+    },
+    {
+      "question": "Which one of the following is not the vector quantity ?",
+      "options": ["Mass", "Velocity", "Force", "Displacement"],
+      "answer": "Mass"
+    },
+    {
+      "question": "Which one of them is an example of wheel and axle ?",
+      "options": ["Screw- driver", "Crowbar", "Paper- cutter", "Beam balance"],
+      "answer": "Screw- driver"
+    },
+    {
+      "question": "The cutting edge of knives are sharpened to",
+      "options": [
+        "decrease the pressure",
+        "increase the pressure",
+        "apply less pressure",
+        "to apply small pressure"
+      ],
+      "answer": "increase the pressure"
+    },
+    {
+      "question": "Energy possessed by a water stored in dam is an example of",
+      "options": [
+        "Potential energy",
+        "Magnetic energy",
+        "Heat energy",
+        "Kinetic energy"
+      ],
+      "answer": "Potential energy"
+    }
+  ]
+}
